@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect x="10" y="22" width="44" height="30" rx="3" ry="3" fill="#1976d2" stroke="#0d47a1" stroke-width="2"/>
+  <rect x="26" y="36" width="12" height="16" fill="#ffffff" stroke="#0d47a1" stroke-width="2"/>
+  <polygon points="32,8 8,22 56,22" fill="#2196f3" stroke="#0d47a1" stroke-width="2"/>
+  <circle cx="32" cy="20" r="4" fill="#ffeb3b" stroke="#fbc02d" stroke-width="2"/>
+  <text x="32" y="32" font-family="Arial" font-size="8" text-anchor="middle" fill="#ffffff" font-weight="bold">POLICÍA</text>
+</svg>
